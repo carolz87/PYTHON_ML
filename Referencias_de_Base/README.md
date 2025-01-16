@@ -50,7 +50,7 @@ Divisão é a operação matemática de dividir um número por outro. Em Python,
 6 / 2
 ```
 Obtém-se a saída:
->3
+>3.0
 
 
 ### 2.5 - Potenciação
@@ -153,7 +153,7 @@ historico_saldo = [10 , 7.50 , 45]
 Obtém-se a saída:
 >["maçã", "banana", "laranja"]
 >
->[10, 7.50, 45]
+>[10, 7.5, 45]
 
 ##### 3.2.6 - Dicionários (dict)
 Dicionários são coleções de pares chave-valor. Eles são delimitados por chaves e cada par é separado por dois pontos. Exemplo:
