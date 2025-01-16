@@ -187,3 +187,21 @@ Obtém-se a saída:
 > (3+4j)
 
 
+_próximos conceitos_
+
+_operadores lógicos (!, ==, !=, <, >, <=, >=)_
+
+_Condicionais_
+
+_cond. simples_
+
+_cond. composta_
+
+_cond. aninhada_
+
+_Repetições_
+
+_Repetições for_
+
+_Repetições while_
+
