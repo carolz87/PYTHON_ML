@@ -187,7 +187,7 @@ Obtém-se a saída:
 > (3+4j)
 
 
-_próximos conceitos_
+_TODO: próximos conceitos_
 
 _operadores lógicos (!, ==, !=, <, >, <=, >=)_
 
